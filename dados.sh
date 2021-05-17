@@ -1,4 +1,4 @@
-eeee#!/bin/bash
+#!/bin/bash
 # dados é um script para criação dos diretórios e permissão dos usuarios da rede Ame com Feltro
 # Autor: Isadora Xavier | Email: isadoraxavier@hotmail.com
 echo"Criação de diretórios da rede"
